@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "328710784763",
+    "project_id": "agenda-flutter-adelson",
+    "storage_bucket": "agenda-flutter-adelson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328710784763:android:4774b1ad98d2e0cc03525e",
+        "android_client_info": {
+          "package_name": "com.example.contact_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328710784763-htbe2bopl9it9cfb9sfr3ju2h13d3inf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contact_list",
+            "certificate_hash": "59eb5d12c5a71710820078f74a990a59f3a49faa"
+          }
+        },
+        {
+          "client_id": "328710784763-ot3tpbma8r1mtorhtrvk738ln95tsd28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmID6F_w4x2guUhUL1M5m48gQS3WUdIVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328710784763-ot3tpbma8r1mtorhtrvk738ln95tsd28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
